@@ -2,7 +2,7 @@
   "name": "goit-react-hw-components-01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Alex-Kuzmenko1965/goit-react-hw-components-01",
+  "homepage": "https://your_username.github.io/your_repo_name/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",

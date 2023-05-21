@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alex-Kuzmenko1965/goit-react-hw-components-01/static/css/main.7acaea2f.css",
+    "main.js": "/Alex-Kuzmenko1965/goit-react-hw-components-01/static/js/main.07d3183d.js",
+    "index.html": "/Alex-Kuzmenko1965/goit-react-hw-components-01/index.html",
+    "main.7acaea2f.css.map": "/Alex-Kuzmenko1965/goit-react-hw-components-01/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Alex-Kuzmenko1965/goit-react-hw-components-01/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}

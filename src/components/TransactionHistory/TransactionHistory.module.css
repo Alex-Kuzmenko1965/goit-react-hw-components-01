@@ -1,0 +1,37 @@
+.transactions {
+  margin: 0 auto;
+  display: block;  
+  max-width: 400px;
+  position: relative;
+  padding: 40px;
+}
+
+.transaction_history {
+  display: block;
+  width: 100%;
+}
+
+thead {  
+  background-color:rgb(39, 192, 192);
+}
+
+tbody {
+  background-color:white;
+}
+
+tr:nth-child(even) {
+  background-color: #f1f1f1;
+}
+
+th, td {
+  padding: 10px;
+  width: 140px;
+}
+
+.centr {
+  text-align: center;
+}
+
+.indent {
+  padding-left: 40px;
+}

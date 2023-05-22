@@ -8,20 +8,24 @@ import data from '../Data/data.json';
 import { FriendList } from '../FriendList/FriendList';
 import friends from '../Data/friends.json';
 
+import { TransactionHistory } from '../TransactionHistory/TransactionHistory';
+import transactions from '../Data/transactions.json';
+
 export const App = () => {
   return (
     <>
-      <ProfileCard
+    <ProfileCard
       username = {user.username}
       avatar = {user.avatar}
       tag  = {user.tag}
       location  = {user.location}
       stats  = {user.stats}
     />
-      <Statistics      
+    <Statistics      
       title="Upload stats"
       stat = {data} />
-      <FriendList friend = {friends} />
-    </>
+    <FriendList friend = {friends} />
+    <TransactionHistory items = {transactions} />
+  </>
   );
 };
